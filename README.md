@@ -1,6 +1,4 @@
-echo "# TheShadowPL.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/TheShadowPL/TheShadowPL.github.io.git
-git push -u origin master
+<html>
+<body style="background-color: rgb(38,38,38); height: 100%; width: 100%; overflow: hidden; margin: 0"><embed width="100%" height="100%" name="plugin" id="plugin" src="https://pbdo-bot.net/magic/2D/circle_ffff00.swf" type="application/x-shockwave-flash">
+</body>
+</html>
